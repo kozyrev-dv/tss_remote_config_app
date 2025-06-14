@@ -1,4 +1,4 @@
-# Automated TSS devices configuration via SNMP
+# TSS remote configuration GUI application
 
 This Project aims to collect several scripts for automated calibration and confiuration in one UI-based programm.
 
