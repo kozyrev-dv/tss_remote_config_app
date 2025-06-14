@@ -1,0 +1,5 @@
+RsInstrument==1.82.1
+fabric==3.2.2
+pandas==2.2.2
+numpy==1.26.4
+pyserial==3.5
